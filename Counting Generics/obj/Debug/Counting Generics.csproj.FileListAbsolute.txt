@@ -1,0 +1,7 @@
+C:\Users\MAE\source\repos\Counting Generics\Counting Generics\bin\Debug\Counting Generics.exe.config
+C:\Users\MAE\source\repos\Counting Generics\Counting Generics\bin\Debug\Counting Generics.exe
+C:\Users\MAE\source\repos\Counting Generics\Counting Generics\bin\Debug\Counting Generics.pdb
+C:\Users\MAE\source\repos\Counting Generics\Counting Generics\obj\Debug\Counting Generics.csprojResolveAssemblyReference.cache
+C:\Users\MAE\source\repos\Counting Generics\Counting Generics\obj\Debug\Counting Generics.csproj.CoreCompileInputs.cache
+C:\Users\MAE\source\repos\Counting Generics\Counting Generics\obj\Debug\Counting Generics.exe
+C:\Users\MAE\source\repos\Counting Generics\Counting Generics\obj\Debug\Counting Generics.pdb
